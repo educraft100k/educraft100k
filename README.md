@@ -7,7 +7,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=header"/>
 
 
-# 🌌 GalaxiteHide 🌠
+# @eduxz_gx
 
 **Developer | YouTuber | Furry**  
 **NexusTeam | GalaxiteNetwork** 🔵✨
