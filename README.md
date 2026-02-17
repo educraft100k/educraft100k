@@ -36,7 +36,7 @@
 - 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**  
 - 🚀 Trabajo en Plugins, Servidores, Networks o Cores (a lo que sea que me inviten)
 
-"Codifica las estrellas. Rompe los límites. Aúllale a la luna.." 🐺✨
+"Codifica las estrellas. Rompe los límites. Aúllale a la luna." 🐺✨
 
 <br>
 
@@ -54,7 +54,7 @@
 
 <div align="center">
 
-<!-- Stats en tema radical con azules -->
+<!-- Stats GitHub (solo una vez) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=educraft100k&show_icons=true&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&icon_color=1E90FF&border_color=00BFFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educraft100k&layout=compact&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&border_color=00BFFF)
@@ -63,10 +63,10 @@
 
 <br>
 
-<!-- Sección galáctica animada final - Estrellas + glow + flotación -->
+<!-- Sección galáctica animada final (sin repeticiones, más pulida) -->
 <div align="center" style="position: relative; background: linear-gradient(135deg, #000033, #000066, #001133); border-radius: 20px; padding: 50px 30px; overflow: hidden; box-shadow: 0 0 50px rgba(0, 191, 255, 0.5); max-width: 900px; margin: 0 auto 40px;">
 
-  <!-- Estrellas parpadeantes más variadas -->
+  <!-- Estrellas parpadeantes -->
   <div style="position: absolute; inset: 0; pointer-events: none;">
     <div style="position: absolute; width: 3px; height: 3px; background: #ffffff; border-radius: 50%; animation: twinkle 3.5s infinite alternate; top: 12%; left: 8%;"></div>
     <div style="position: absolute; width: 4px; height: 4px; background: #00BFFF; border-radius: 50%; animation: twinkle 5s infinite alternate; top: 28%; left: 75%;"></div>
@@ -76,7 +76,7 @@
     <div style="position: absolute; width: 2px; height: 2px; background: #ffffff; border-radius: 50%; animation: twinkle 4.8s infinite alternate; top: 80%; left: 30%;"></div>
   </div>
 
-  <!-- Contenido central con glow neón y flotación -->
+  <!-- Texto central con glow y flotación -->
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #00BFFF; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF; margin: 0 0 15px; font-size: 2.5em; animation: float 7s ease-in-out infinite;">
       NexusTeam 2026
@@ -97,7 +97,7 @@
 
 </div>
 
-<!-- Animaciones -->
+<!-- Animaciones CSS -->
 <style>
   @keyframes twinkle {
     0% { opacity: 0.4; transform: scale(0.7) rotate(0deg); }
