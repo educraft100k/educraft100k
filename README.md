@@ -6,8 +6,6 @@
 <!-- Waving header en azules galácticos -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=header"/>
 
-<!-- Foto de perfil / avatar furry galáctico -->
-<img src="https://thumbs.dreamstime.com/b/neon-blue-wolf-glowing-eyes-cosmic-background-digital-art-artwork-depicting-s-head-shoulders-against-dark-fur-352654204.jpg" width="180" alt="GalaxiteHide Avatar" style="border-radius:50%; border: 4px solid #00BFFF; box-shadow: 0 0 30px #00BFFF; margin: 20px 0;">
 
 # 🌌 GalaxiteHide 🌠
 
