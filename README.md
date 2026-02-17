@@ -42,7 +42,7 @@
  
 - 🚀 Trabajo en Plugins , Servidores, Networks o Cores ( a lo que sea que me inviten)
 
-"Code the stars. Break the limits. Howl at the moon." 🌕🔵
+"Codifica las estrellas. Rompe los límites. Aúllale a la luna.." 🐺✨
 
 <br>
 
