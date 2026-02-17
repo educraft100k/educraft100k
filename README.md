@@ -51,7 +51,7 @@
 <div align="center">
 
 [![YouTube](https://img.shields.io/badge/YouTube-Subs%20Here-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000033)](https://youtube.com/@eduardo_1000k?si=9s_nGLlsHzgB3sz-)  
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000033)](https://instagram.com/galaxitehide)  
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000033)](https://www.instagram.com/eduxz_grx?igsh=N244b2VscGhqZXdt)  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Nexus-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000033)](https://discord.gg/tu-server-nexus-o-galaxite)  
 
 </div>
