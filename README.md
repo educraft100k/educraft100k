@@ -54,7 +54,6 @@
 
 <div align="center">
 
-<!-- Stats GitHub (solo una vez) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=educraft100k&show_icons=true&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&icon_color=1E90FF&border_color=00BFFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educraft100k&layout=compact&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&border_color=00BFFF)
@@ -63,48 +62,22 @@
 
 <br>
 
-<!-- Sección galáctica animada final (sin repeticiones, más pulida) -->
-<div align="center" style="position: relative; background: linear-gradient(135deg, #000033, #000066, #001133); border-radius: 20px; padding: 50px 30px; overflow: hidden; box-shadow: 0 0 50px rgba(0, 191, 255, 0.5); max-width: 900px; margin: 0 auto 40px;">
+<div align="center" style="background: linear-gradient(135deg, #000033, #001133); padding: 40px; border-radius: 20px; box-shadow: 0 0 30px #00BFFF; max-width: 900px; margin: 0 auto;">
 
-  <!-- Estrellas parpadeantes -->
-  <div style="position: absolute; inset: 0; pointer-events: none;">
-    <div style="position: absolute; width: 3px; height: 3px; background: #ffffff; border-radius: 50%; animation: twinkle 3.5s infinite alternate; top: 12%; left: 8%;"></div>
-    <div style="position: absolute; width: 4px; height: 4px; background: #00BFFF; border-radius: 50%; animation: twinkle 5s infinite alternate; top: 28%; left: 75%;"></div>
-    <div style="position: absolute; width: 2px; height: 2px; background: #ADD8E6; border-radius: 50%; animation: twinkle 6.5s infinite alternate; top: 55%; left: 18%;"></div>
-    <div style="position: absolute; width: 3px; height: 3px; background: #1E90FF; border-radius: 50%; animation: twinkle 4s infinite alternate; top: 68%; left: 85%;"></div>
-    <div style="position: absolute; width: 5px; height: 5px; background: #00FFFF; border-radius: 50%; animation: twinkle 7s infinite alternate; top: 45%; left: 40%; opacity: 0.7;"></div>
-    <div style="position: absolute; width: 2px; height: 2px; background: #ffffff; border-radius: 50%; animation: twinkle 4.8s infinite alternate; top: 80%; left: 30%;"></div>
-  </div>
+<h2 style="color: #00BFFF; font-size: 2.8em; margin: 0; text-shadow: 0 0 20px #00BFFF;">
+  NexusTeam 2026
+</h2>
 
-  <!-- Texto central con glow y flotación -->
-  <div style="position: relative; z-index: 2;">
-    <h2 style="color: #00BFFF; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 25px #00BFFF, 0 0 50px #00BFFF; margin: 0 0 15px; font-size: 2.5em; animation: float 7s ease-in-out infinite;">
-      NexusTeam 2026
-    </h2>
-    
-    <p style="color: #00FFFF; text-shadow: 0 0 15px #00FFFF, 0 0 30px #00FFFF; font-size: 1.5em; font-weight: bold; margin: 10px 0; animation: float 9s ease-in-out infinite;">
-      GalaxiteHide – Floating through code & cosmos
-    </p>
-    
-    <p style="color: #ADD8E6; text-shadow: 0 0 12px #1E90FF; font-size: 1.3em; margin: 20px 0 30px; animation: float 8s ease-in-out infinite;">
-      Building the future, one packet at a time 🌌
-    </p>
+<p style="color: #00FFFF; font-size: 1.8em; font-weight: bold; margin: 15px 0; text-shadow: 0 0 15px #00FFFF;">
+  GalaxiteHide – Floating through code & cosmos
+</p>
 
-    <div style="font-size: 2em; letter-spacing: 10px; color: #4169E1; text-shadow: 0 0 20px #4169E1;">
-      🌌 🔵 ✨ 🌠 🐺 🔹
-    </div>
-  </div>
+<p style="color: #ADD8E6; font-size: 1.4em; margin: 20px 0; text-shadow: 0 0 10px #1E90FF;">
+  Building the future, one packet at a time 🌌
+</p>
 
+<div style="font-size: 3em; letter-spacing: 15px; color: #4169E1; text-shadow: 0 0 20px #4169E1; margin-top: 30px;">
+  🌌 🔵 ✨ 🌠 🐺 🔹
 </div>
 
-<!-- Animaciones CSS -->
-<style>
-  @keyframes twinkle {
-    0% { opacity: 0.4; transform: scale(0.7) rotate(0deg); }
-    100% { opacity: 1; transform: scale(1.3) rotate(360deg); }
-  }
-  @keyframes float {
-    0%, 100% { transform: translateY(0) scale(1); }
-    50% { transform: translateY(-12px) scale(1.02); }
-  }
-</style>
+</div>
