@@ -29,18 +29,23 @@
 
 ## 🔵 Información Sobre Mi
 
-- 🐺 **Furry** – Developer de la Comunidad Furry  
-- 💻 **Desarrollador** especializado en **Python** y **PHP**  
-- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)  
-- 📹 **YouTuber** Reviews, Plugins, Tutoriales y Directos  
-- 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**  
+- 🐺 **Furry** – Developer de la Comunidad Furry
+   
+- 💻 **Desarrollador** especializado en **Python** y **PHP**
+  
+- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)
+   
+- 📹 **YouTuber** Reviews, Plugins, Tutoriales y Directos
+  
+- 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**
+  
 - 🚀 Trabajo en Plugins, Servidores, Networks o Cores (a lo que sea que me inviten)
 
 "Codifica las estrellas. Rompe los límites. Aúllale a la luna." 🐺✨
 
 <br>
 
-## 🔗 Conéctate en la galaxia
+## 🔗 Mis Redes Sociales o Contacto 
 
 <div align="center">
 
@@ -69,15 +74,15 @@
 </h2>
 
 <p style="color: #00FFFF; font-size: 1.8em; font-weight: bold; margin: 15px 0; text-shadow: 0 0 15px #00FFFF;">
-  GalaxiteHide – Floating through code & cosmos
+  @Nexus Network | @Galaxite Network 
 </p>
 
 <p style="color: #ADD8E6; font-size: 1.4em; margin: 20px 0; text-shadow: 0 0 10px #1E90FF;">
-  Building the future, one packet at a time 🌌
+ The only limit is imagination...
 </p>
 
 <div style="font-size: 3em; letter-spacing: 15px; color: #4169E1; text-shadow: 0 0 20px #4169E1; margin-top: 30px;">
-  🌌 🔵 ✨ 🌠 🐺 🔹
+  ☄️ • 🌌 • 🌀 • 🫧 • 🪽
 </div>
 
 </div>
