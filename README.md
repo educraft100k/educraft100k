@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**educraft100k/educraft100k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💙 Edu | Developer 💙
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=YouTuber;Craftsman;PocketMine+Developer;Furry;Minecraft+Network+Builder" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=header"/>
+
+</div>
+
+---
+
+## 💎 About Me
+
+```yaml
+Name: Edu
+Role: Minecraft Developer
+Specialty: PocketMine API 2.0.0
+Focus: Network Systems & Plugins
+Energy: Blue Mode Activated 💙
