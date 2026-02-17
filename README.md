@@ -71,10 +71,10 @@
 
 <div align="center">
 
-<!-- Imagen extra galáctica pixel art para vibe -->
-<img src="https://imgur.com/a/pf6QzrH" 
+<<!-- Imagen extra galáctica pixel art para vibe -->
+<img src="https://i.imgur.com/pf6QzrH.png" 
      width="600" 
-     alt="Astronauta pixel art navegando en la galaxia" 
+     alt="Alien/Astronauta pixel art navegando en la galaxia" 
      style="border-radius:12px; box-shadow: 0 0 25px #00BFFF; margin: 20px 0;">
 
 ✨ **NexusTeam 2026** – Building the future, one packet at a time ✨  
