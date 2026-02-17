@@ -30,12 +30,12 @@
 
 ## 🔵 Información Sobre Mi
 
-- 🐺 **Furry** – Lobo cósmico navegando entre estrellas y código  
+- 🐺 **Furry** – Developer de la Comunidad Furry
 - 💻 **Desarrollador** especializado en **Python** y **PHP**  
 - 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)  
-- 📹 **YouTuber** compartiendo tutoriales, servidores MCPE, desarrollo de plugins y vibes galácticas  
-- 🌌 Miembro orgulloso de **@NexusTeam** y **@GalaxiteNetwork**  
-- 🚀 Construyendo redes Minecraft, herramientas de red y proyectos low-level con alma espacial  
+- 📹 **YouTuber** Reviews , Plugins , Tutoriales y Directos 
+- 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**  
+- 🚀 Trabajo en Plugins , Servidores, Networks o Cores ( a lo que sea que me inviten)
 
 "Code the stars. Break the limits. Howl at the moon." 🌕🔵
 
