@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG galáctico -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=YouTuber;Craftsman;PocketMine+Developer;Furry;Minecraft+Network+Builder" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=YouTuber;Craftsman;PocketMine+Developer;Furry;Craftsman+Network+Developer" />
 
 <!-- Waving header en azules galácticos -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00BFFF&height=120&section=header"/>
