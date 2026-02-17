@@ -71,8 +71,11 @@
 
 <div align="center">
 
-<!-- Imagen extra galáctica de MCPE space theme para vibe -->
-<img src="https://media.craiyon.com/2025-10-04/AATx43_aQ1GeFqsfAKseyg.webp" width="600" alt="Minecraft Galaxy Network" style="border-radius:12px; box-shadow: 0 0 25px #00BFFF; margin: 20px 0;">
+<!-- Imagen extra galáctica pixel art para vibe -->
+<img src="https://i.imgur.com/0ZxZ8zL.png" 
+     width="600" 
+     alt="Alien pixel art en la galaxia" 
+     style="border-radius:12px; box-shadow: 0 0 25px #00BFFF; margin: 20px 0;">
 
 ✨ **NexusTeam 2026** – Building the future, one packet at a time ✨  
 🔵 **GalaxiteHide** – Floating through code & cosmos 🔵
