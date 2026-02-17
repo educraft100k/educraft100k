@@ -72,7 +72,7 @@
 <div align="center">
 
 <!-- Imagen extra galáctica pixel art para vibe -->
-<img src="https://i.imgur.com/8jK0p9Q.png" 
+<img src="https://imgur.com/a/pf6QzrH" 
      width="600" 
      alt="Astronauta pixel art navegando en la galaxia" 
      style="border-radius:12px; box-shadow: 0 0 25px #00BFFF; margin: 20px 0;">
