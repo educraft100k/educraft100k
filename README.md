@@ -31,10 +31,15 @@
 ## 🔵 Información Sobre Mi
 
 - 🐺 **Furry** – Developer de la Comunidad Furry
-- 💻 **Desarrollador** especializado en **Python** y **PHP**  
-- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)  
-- 📹 **YouTuber** Reviews , Plugins , Tutoriales y Directos 
-- 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**  
+- 
+- 💻 **Desarrollador** especializado en **Python** y **PHP**
+- 
+- 🎮 Experto en **PocketMine-MP** → **API 2.0.0** + **protocolo 81** (Minecraft PE servers y plugins)
+-   
+- 📹 **YouTuber** Reviews , Plugins , Tutoriales y Directos
+- 
+- 🌌 Equipos de Desarrollo **@Nexus Team** y **@Galaxite Network**
+- 
 - 🚀 Trabajo en Plugins , Servidores, Networks o Cores ( a lo que sea que me inviten)
 
 "Code the stars. Break the limits. Howl at the moon." 🌕🔵
@@ -45,7 +50,7 @@
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subs%20Here-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000033)](https://www.youtube.com/@tu-canal-aqui)  
+[![YouTube](https://img.shields.io/badge/YouTube-Subs%20Here-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000033)](https://youtube.com/@eduardo_1000k?si=9s_nGLlsHzgB3sz-)  
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000033)](https://instagram.com/galaxitehide)  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Nexus-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=000033)](https://discord.gg/tu-server-nexus-o-galaxite)  
 
