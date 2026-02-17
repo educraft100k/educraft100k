@@ -71,13 +71,54 @@
 
 <div align="center">
 
-<<!-- Imagen extra galáctica pixel art para vibe -->
-<img src="https://i.imgur.com/pf6QzrH.png" 
-     width="600" 
-     alt="Alien/Astronauta pixel art navegando en la galaxia" 
-     style="border-radius:12px; box-shadow: 0 0 25px #00BFFF; margin: 20px 0;">
+<!-- Stats en tema radical con azules galácticos -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=educraft100k&show_icons=true&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&icon_color=1E90FF&border_color=00BFFF)
 
-✨ **NexusTeam 2026** – Building the future, one packet at a time ✨  
-🔵 **GalaxiteHide** – Floating through code & cosmos 🔵
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educraft100k&layout=compact&theme=radical&bg_color=000033&title_color=00BFFF&text_color=ADD8E6&border_color=00BFFF)
 
 </div>
+
+<br>
+
+<!-- Sección galáctica animada sin imágenes externas -->
+<div align="center" style="position: relative; background: linear-gradient(to bottom, #000033, #000066); border-radius: 16px; padding: 40px 20px; overflow: hidden; box-shadow: 0 0 40px rgba(0, 191, 255, 0.4); max-width: 800px; margin: 0 auto;">
+
+  <!-- Estrellas animadas de fondo -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+    <div style="position: absolute; width: 3px; height: 3px; background: #ffffff; border-radius: 50%; animation: twinkle 4s infinite alternate; top: 15%; left: 10%;"></div>
+    <div style="position: absolute; width: 2px; height: 2px; background: #ADD8E6; border-radius: 50%; animation: twinkle 5s infinite alternate; top: 25%; left: 80%;"></div>
+    <div style="position: absolute; width: 4px; height: 4px; background: #00BFFF; border-radius: 50%; animation: twinkle 6s infinite alternate; top: 60%; left: 20%;"></div>
+    <div style="position: absolute; width: 2px; height: 2px; background: #ffffff; border-radius: 50%; animation: twinkle 7s infinite alternate; top: 70%; left: 65%;"></div>
+    <div style="position: absolute; width: 3px; height: 3px; background: #1E90FF; border-radius: 50%; animation: twinkle 4.5s infinite alternate; top: 40%; left: 45%;"></div>
+  </div>
+
+  <!-- Contenido central con glow y flotación -->
+  <div style="position: relative; z-index: 2;">
+    <h2 style="color: #00BFFF; font-family: 'Orbitron', sans-serif; text-shadow: 0 0 20px #00BFFF, 0 0 40px #00BFFF; margin: 0; font-size: 2.2em; animation: float 6s ease-in-out infinite;">NexusTeam 2026</h2>
+    
+    <p style="color: #ADD8E6; text-shadow: 0 0 10px #1E90FF; font-size: 1.3em; margin: 15px 0; animation: float 7s ease-in-out infinite;">
+      Building the future, one packet at a time
+    </p>
+    
+    <p style="color: #00FFFF; font-weight: bold; text-shadow: 0 0 15px #00FFFF; font-size: 1.4em; margin: 20px 0; animation: float 8s ease-in-out infinite;">
+      GalaxiteHide – Floating through code & cosmos
+    </p>
+    
+    <p style="color: #4169E1; font-size: 1.1em; margin-top: 30px;">
+      🌌 🔵 ✨ 🌠 🔹
+    </p>
+  </div>
+
+</div>
+
+<!-- Keyframes para animaciones -->
+<style>
+  @keyframes twinkle {
+    0% { opacity: 0.3; transform: scale(0.8); }
+    100% { opacity: 1; transform: scale(1.2); }
+  }
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+</style>
