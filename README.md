@@ -16,7 +16,9 @@
       
 ### Sobre Mi:
 
-Hola, me llamo **edux_gx**. soy un creador de código/ vive coding
+Hola, me llamo **edux_gx**. soy un creador de código / vive coding, me gusta el desarrollo tanto para apps/páginas o ect
+
+y disfruto del desarrollo de complementos para pocketmine api 2.0.0
     </td>    
     <td width="50%" valign="top">
       
