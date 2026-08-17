@@ -16,7 +16,7 @@
 
 ### Sobre Mi:
 
-Hola, me llamo **edux_gx**. soy un creador de código/ vivecoding
+Hola, me llamo **edux_gx**. soy un creador de código/ vive coding
 
     <td width="50%" valign="top">
 
