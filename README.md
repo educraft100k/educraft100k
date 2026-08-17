@@ -34,19 +34,19 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
 
 <br>
 
-### Mis lenguajes Favoritos:
+### 💻 | Mis lenguajes Favoritos:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,typescript" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/main/cute-bears.png" width="120"/>
+  <img src="imagen/lennart-butz-idea5anim.gif" alt="Logo" width="420">
 </p>
 
 <br>
 
-### connect with me 🔗
+### 🪷 | Comunícate Conmigo:
 
 <p align="center">
   <a href="https://linkedin.com/in/tu-linkedin">
