@@ -24,9 +24,10 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
       
 ### Mis Intereses:
 
-`1) Desarrollo de Apps` `2) Pocketmine` `3) Web Development`  
-`4) La estética` `5) android` `6) Development`  
-`7) Musica` `Biomedical Engineering`
+`1) Desarrollo de Apps`
+`2) Pocketmine 7.0.2` `3) desarrollo wep`  
+`4) La buena estética` `5) Las android apps` `6) Development`  
+`7) Escuchar musica` `8) Minecraft 0.15.10`
     </td>
   </tr>
 </table>
@@ -36,7 +37,7 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
 ### Mis lenguajes Favoritos:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,tsx" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,tsx,NexusCode" />
 </p>
 
 <p align="center">
