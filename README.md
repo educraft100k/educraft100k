@@ -1,3 +1,6 @@
 ---
-<img src="imagen/jb0vb4zh8vo41.gif" alt="Logo" width="200">
+<img src="imagen/jb0vb4zh8vo41.gif" alt="Logo" width="500">
 
+---
+
+# NEXUS | TEAM
