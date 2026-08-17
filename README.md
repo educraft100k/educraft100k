@@ -34,10 +34,10 @@ Hola, me llamo **edux_gx**. soy un creador de código/ vivecoding
 
 <br>
 
-### tech stack ( ★ - ★ )?
+### Mis lenguajes Favoritos:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,django,js,ts,react,nodejs,git,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,tsx" />
 </p>
 
 <p align="center">
