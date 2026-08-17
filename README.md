@@ -37,7 +37,7 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
 ### Mis lenguajes Favoritos:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,tsx,NexusCode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,kotlin,git,vscode,typescript" />
 </p>
 
 <p align="center">
