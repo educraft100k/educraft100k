@@ -49,7 +49,7 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
 ### 🪷 | Comunícate Conmigo:
 
 <p align="center">
-  <a href="https://instagram.com/tu-instagram">
+  <a href="https://www.instagram.com/edu.xzgx?igsh=dTFyMHhkc3BuZzBz">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   &nbsp;
