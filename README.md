@@ -65,13 +65,3 @@ y disfruto del desarrollo de complementos para pocketmine api 2.0.0
 <br>
 
 ---
-
-### Popular repositories
-
-<!-- Aquí GitHub muestra automáticamente tus repos más populares -->
-
-<br>
-
-### 85 contributions in the last year
-
-<!-- Aquí aparece el contribution graph automático de GitHub -->
