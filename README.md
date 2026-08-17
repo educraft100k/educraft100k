@@ -13,22 +13,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-
+      
 ### Sobre Mi:
 
 Hola, me llamo **edux_gx**. soy un creador de código/ vive coding
-
-a
-
-    </td>
+    </td>    
     <td width="50%" valign="top">
-
+      
 ### Mis Intereses:
 
 `1) Desarrollo de Apps` `2) Pocketmine` `3) Web Development`  
 `4) La estética` `5) android` `6) Development`  
 `7) Musica` `Biomedical Engineering`
-  
     </td>
   </tr>
 </table>
@@ -66,3 +62,13 @@ a
 <br>
 
 ---
+
+### Popular repositories
+
+<!-- Aquí GitHub muestra automáticamente tus repos más populares -->
+
+<br>
+
+### 85 contributions in the last year
+
+<!-- Aquí aparece el contribution graph automático de GitHub -->
